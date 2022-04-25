@@ -1,13 +1,17 @@
-<h1 align="center">Hi there   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/HvekzBaREHxlEwvlOS/giphy.gif" width="100"/>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/sofian-slimani-89072516a/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+  <img src="https://komarev.com/ghpvc/?username=sev7n2507&label=Profile%20views&color=0e75b6&style=flat" alt="sev7n2507" />
+
+</div>
+
+
+<h1 align="center">hey there   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<h3 align="center">A frontend developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sev7n2507&label=Profile%20views&color=0e75b6&style=flat" alt="sev7n2507" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sofian-slimani-89072516a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sofian slimani" height="30" width="40" /></a>
-</p>
 
 ---
 
@@ -18,10 +22,10 @@
 
 ### :fire: My Stats :
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sev7n2507&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sev7n2507&show_icons=true&theme=slateorange)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sev7n2507&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sev7n2507&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
