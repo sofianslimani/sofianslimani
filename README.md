@@ -27,19 +27,3 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sev7n2507&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
----
-
-### :technologist: Weekly development breakdown :
-
-<!--START_SECTION:waka-->
-
-```text
-CSS          8 hrs 32 mins   ██████████████░░░░░░░░░░░   55.91 %
-JavaScript   6 hrs 41 mins   ███████████░░░░░░░░░░░░░░   43.78 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-TypeScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-```
-
-<!--END_SECTION:waka-->
-
